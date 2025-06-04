@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266791399012",
+    "project_id": "stayfitapp-ca3b2",
+    "storage_bucket": "stayfitapp-ca3b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266791399012:android:6faa450468bb393b83f971",
+        "android_client_info": {
+          "package_name": "com.example.stay_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAe66CwUVQ99TAdJwsEJUtXe2QZBnY64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
